@@ -1,20 +1,17 @@
-# US Jobs and Retail Analysis
+# Olist Insights
 
 ## Description
-This repository contains two projects focusing on significant sectors of the US economy: employment trends across various regions and sectors, and a detailed analysis of online retail strategies using the Olist dataset from Brazil. These projects provide valuable insights into regional job trends and strategic decision-making in online retail environments.
+This repository contains a Jupyter Notebook that explores strategic insights from the Olist online retail platform. The project employs various data analysis techniques to dissect the operations, customer behavior, and sales trends of Olist, providing actionable insights into the Brazilian e-commerce market.
 
-### Projects
-
-#### 1. Analyzing Regional Job Trends Across Industry Sectors in the United States
-This project examines job trends within various industry sectors across different regions of the United States, exploring significant patterns that can help understand the employment landscape better.
-
-#### 2. The Anatomy of Online Retail: Strategic Insights from Olist
-This analysis dives into the Olist online retail platform to uncover strategic insights that can drive business decisions and improve customer relationships in the e-commerce sector.
+## Project Structure
+- **The_Anatomy_of_Online_Retail_Strategic_Insights_from_Olist.ipynb**: A comprehensive Jupyter Notebook that walks through the data analysis process, from data cleaning and exploratory data analysis to more complex statistical assessments and visualization.
 
 ## Installation
-To run these notebooks, ensure you have Python installed along with the following libraries:
+Before running the notebook, ensure the following tools and libraries are installed in your Python environment:
+- Python 3.x
 - NumPy
 - Pandas
 - Matplotlib
 - Seaborn
-- Scikit-learn
+- SciPy
+- scikit-learn
